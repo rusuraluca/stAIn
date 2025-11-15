@@ -45,7 +45,7 @@ export const translations: { [key: string]: any } = {
     }
   },
   ro: {
-    title: 'stAIn soluționeaza pete',
+    title: 'stAIn',
     subtitle: 'Ghidul tău expert pentru haine impecabile.',
     imageUploader: {
       label: '1. Încarcă Imaginea Petei',
