@@ -1,4 +1,4 @@
-# stAIn
+# remove stAIn
 
 https://removestain.netlify.app/
 
