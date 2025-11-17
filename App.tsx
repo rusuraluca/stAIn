@@ -84,6 +84,7 @@ const App: React.FC = () => {
       <main className="container mx-auto px-4 py-8 sm:py-12">
         <div className="max-w-3xl mx-auto">
           <header className="text-center mb-10 relative">
+            <a href="https://www.producthunt.com/products/remove-stain?embed=true&utm_source=badge-featured&utm_medium=badge&utm_source=badge-remove&#0045;stain" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1039090&theme=neutral&t=1763381804677" alt="remove&#0032;stAIn - Remove&#0032;clothing&#0032;stains&#0032;using&#0032;AI | Product Hunt" width="250" height="54" /></a>
             {view === 'input' && (
                 <div className="absolute top-0 right-0">
                   <LanguageSelector currentLanguage={language} onLanguageChange={setLanguage} />
