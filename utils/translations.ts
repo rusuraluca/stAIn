@@ -8,7 +8,7 @@ export const languageMap: { [key: string]: string } = {
 
 export const translations: { [key: string]: any } = {
   en: {
-    title: 'stAIn',
+    title: 'remove stAIn',
     subtitle: 'Your expert guide to pristine clothes.',
     imageUploader: {
       label: '1. Upload Stain Image',
@@ -48,7 +48,7 @@ export const translations: { [key: string]: any } = {
     }
   },
   ro: {
-    title: 'stAIn',
+    title: 'remove stAIn',
     subtitle: 'Ghidul tău expert pentru haine impecabile.',
     imageUploader: {
       label: '1. Încarcă Imaginea Petei',
@@ -88,7 +88,7 @@ export const translations: { [key: string]: any } = {
     }
   },
   de: {
-    title: 'stAIn',
+    title: 'remove stAIn',
     subtitle: 'Ihr Expertenratgeber für makellose Kleidung.',
     imageUploader: {
       label: '1. Fleckenbild hochladen',
@@ -128,7 +128,7 @@ export const translations: { [key: string]: any } = {
     }
   },
   fr: {
-    title: 'stAIn',
+    title: 'remove stAIn',
     subtitle: 'Votre guide expert pour des vêtements impeccables.',
     imageUploader: {
       label: '1. Télécharger l\'Image de la Tache',
@@ -168,7 +168,7 @@ export const translations: { [key: string]: any } = {
     }
   },
   es: {
-    title: 'stAIn',
+    title: 'remove stAIn',
     subtitle: 'Tu guía experta para ropa impecable.',
     imageUploader: {
       label: '1. Subir Imagen de la Mancha',
